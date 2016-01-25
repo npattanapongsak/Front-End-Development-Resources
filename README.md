@@ -2,8 +2,11 @@
 A curated list of Front end development
 
 ## Javascript
+
 ### Learning Javascript
+
 * Eloquent Javascript [http://eloquentjavascript.net/1st_edition/contents.html](first) and [http://eloquentjavascript.net/](second) edition
+
 ### Functional Programming Learning and Execercise
 
 * [Functional Programming in Javascript](http://reactivex.io/learnrx/) - http://reactivex.io/ 
@@ -18,6 +21,7 @@ A curated list of Front end development
 * [JavaScript Style Guide](https://github.com/airbnb/javascript) - Airbnb
 
 ### Design Pattern
+
 * [Javascript Design Pattern](https://addyosmani.com/resources/essentialjsdesignpatterns/book/) 
 
 ## CSS
