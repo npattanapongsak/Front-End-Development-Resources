@@ -5,14 +5,14 @@ A curated list of Front end development
 
 ### Learning Javascript
 
-* Eloquent Javascript [http://eloquentjavascript.net/1st_edition/contents.html](first) and [http://eloquentjavascript.net/](second) edition
+* Eloquent Javascript [first](http://eloquentjavascript.net/1st_edition/contents.html) and [second](http://eloquentjavascript.net/) edition
 
 ### Functional Programming Learning and Execercise
 
 * [Functional Programming in Javascript](http://reactivex.io/learnrx/) - http://reactivex.io/ 
   
   Provide a series of exercises for leanning functiona programming 
-* [http://eloquentjavascript.net/1st_edition/chapter6.html](http://eloquentjavascript.net/1st_edition/chapter6.html) - Eloquent JavaScript
+* [Eloquent chapter 6](http://eloquentjavascript.net/1st_edition/chapter6.html) - Eloquent JavaScript
 
 
 
@@ -22,7 +22,7 @@ A curated list of Front end development
 
 ### Design Pattern
 
-* [Javascript Design Pattern](https://addyosmani.com/resources/essentialjsdesignpatterns/book/) 
+* [Javascript Design Pattern](https://addyosmani.com/resources/essentialjsdesignpatterns/book/) - [Addy Osmani](http://twitter.com/addyosmani)
 
 ## CSS
 
