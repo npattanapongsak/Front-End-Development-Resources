@@ -10,8 +10,6 @@ A curated list of Front end development
 #### Functional Programming Learning and Execercise
 
 * [Functional Programming in Javascript](http://reactivex.io/learnrx/) - http://reactivex.io/ 
-  
-  Provide a series of exercises for leanning functiona programming 
 * [Eloquent chapter 6](http://eloquentjavascript.net/1st_edition/chapter6.html) - Eloquent JavaScript
 
 #### Javascript Coding Guide
