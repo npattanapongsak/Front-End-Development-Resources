@@ -13,6 +13,7 @@ A curated list of Front end development
 
 ### Design Pattern
 * [Javascript Design Pattern](https://addyosmani.com/resources/essentialjsdesignpatterns/book/) 
+
 ## CSS
 
 ### CSS Style Guide
