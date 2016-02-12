@@ -6,6 +6,7 @@ A curated list of Front end development
 #### Learning Javascript
 
 * Eloquent Javascript [first](http://eloquentjavascript.net/1st_edition/contents.html) and [second](http://eloquentjavascript.net/) edition
+* [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS/blob/master/README.md)
 
 #### Advance Javascript
 
